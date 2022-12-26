@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="e4c0a7d6-e971-4983-a11f-e173142894de" name="H2 Mapping">
+      <data-sources db="8b21986d-3fb3-45ce-9454-4478d0440a87" ddl="946f689d-6bd2-4c7e-998e-d73820a42064" />
+      <scope>
+        <node kind="database" negative="1">
+          <node kind="schema" negative="1" />
+        </node>
+      </scope>
+    </mapping>
+  </component>
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="946f689d-6bd2-4c7e-998e-d73820a42064" />
+          <option name="name" value="H2 (DDL)" />
+          <option name="languageId" value="H2" />
+          <option name="urls">
+            <array />
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>

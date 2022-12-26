@@ -1,0 +1,12 @@
+C:\Users\mriss\Downloads\practical-test\src\main\java\com\example\api\exception\BadRequestException.java
+C:\Users\mriss\Downloads\practical-test\src\main\java\com\example\api\exception\ExceptionDetails.java
+C:\Users\mriss\Downloads\practical-test\src\main\java\com\example\api\handler\RestExceptionHandler.java
+C:\Users\mriss\Downloads\practical-test\src\main\java\com\example\api\exception\ValidationExceptionDetails.java
+C:\Users\mriss\Downloads\practical-test\src\main\java\com\example\api\repository\AddressRepository.java
+C:\Users\mriss\Downloads\practical-test\src\main\java\com\example\api\ApiApplication.java
+C:\Users\mriss\Downloads\practical-test\src\main\java\com\example\api\web\rest\CustomerController.java
+C:\Users\mriss\Downloads\practical-test\src\main\java\com\example\api\exception\BadRequestExceptionDetails.java
+C:\Users\mriss\Downloads\practical-test\src\main\java\com\example\api\service\CustomerService.java
+C:\Users\mriss\Downloads\practical-test\src\main\java\com\example\api\domain\Address.java
+C:\Users\mriss\Downloads\practical-test\src\main\java\com\example\api\domain\Customer.java
+C:\Users\mriss\Downloads\practical-test\src\main\java\com\example\api\repository\CustomerRepository.java
