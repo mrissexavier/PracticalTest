@@ -9,7 +9,8 @@
 
 1. Clone o projeto: `https://github.com/mrissexavier/PracticalTest`
 1. Entre na pasta `practical-test` e execute: `mvn spring-boot:run`
-1. Acesse: `http://localhost:8081/customers`
+1. Acesse: `http://localhost:8081/swagger-ui.html`
+1. Url base `http://localhost:8081/customers`
 
 
 
